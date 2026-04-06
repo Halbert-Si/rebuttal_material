@@ -6,4 +6,4 @@ This repository contains the rebuttal figures for the experiment evaluating how 
 
 ## Files
 - `afs_deployment_risk_N.png`: log deployment risk versus log N
-- `afs_deployment_risk_k.png`: deployment risk versus k
+- `afs_deployment_risk_K.png`: deployment risk versus k
